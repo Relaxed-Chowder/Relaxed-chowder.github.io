@@ -9,3 +9,10 @@ body{
     border-radius: 5px;
     background-color: rgba(104, 198, 222, 70%);
 }
+
+#nav{
+    margin-left: 24rem;
+    margin-right: 24rem;
+    border-style: solid;
+    background-color: rgba(222, 128, 104, 70%);
+}
