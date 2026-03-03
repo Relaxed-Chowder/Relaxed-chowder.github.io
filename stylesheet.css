@@ -1,4 +1,11 @@
 body{
-    color: #000000;
-    background-color: #1488cc96;
+    background-image: url(pexels-luisdelrio-15286.jpg);
+}
+
+#window{
+    margin-left: 24rem;
+    margin-right: 24rem;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: rgba(104, 198, 222, 70%);
 }
